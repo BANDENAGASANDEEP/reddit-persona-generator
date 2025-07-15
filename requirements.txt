@@ -1,0 +1,6 @@
+transformers
+torch
+praw
+tqdm
+python-dotenv
+cohere
